@@ -1,0 +1,7 @@
+{
+  "name": "elapsedMillis",
+  "author": "Bruce Calder <brucebcalder@gmail.com>",
+  "license": "none",
+  "version": "0.0.1",
+  "description": "A elapsedMillis library"
+}
